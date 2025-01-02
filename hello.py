@@ -7,4 +7,8 @@ edit 3 by partner
 =======
 edit 2 by firefly
 edit 4 by firefly
+<<<<<<< HEAD
 >>>>>>> ac85556 (edit 4 by firefly)
+=======
+edit 5 by firefly
+>>>>>>> b81fff1 (edit 5 by firefly)
